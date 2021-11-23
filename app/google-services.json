@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428177871763",
+    "project_id": "jobfinder-30168",
+    "storage_bucket": "jobfinder-30168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428177871763:android:069db38ab897939e038e66",
+        "android_client_info": {
+          "package_name": "com.example.job_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428177871763-0rmomk0mn6o39ki6sjm0vro29biamvhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.job_finder",
+            "certificate_hash": "bf6c16fb24bd7f553d8008b0a7888329ca1d85fc"
+          }
+        },
+        {
+          "client_id": "428177871763-nkfkooibnpj3vpsr64sk68hsffideo6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY5yjHG4IQa05_ZwHoZCGlmw5_E_1qdVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428177871763-nkfkooibnpj3vpsr64sk68hsffideo6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
